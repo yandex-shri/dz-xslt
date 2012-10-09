@@ -1,0 +1,26 @@
+<persons>
+    <person>
+        <login>robot</login>
+        <email>robot@somehost.ru</email>
+        <phone type="mobile">223-322-223-322</phone>
+        <group>xslt</group>
+    </person>
+    <person>
+        <login>human</login>
+        <email>human@somehost.ru</email>
+        <phone type="work">666</phone>
+        <phone type="mobile">123-456-321-654</phone>
+        <group>xslt</group>
+    </person>
+    <person>
+        <login>kiborg</login>
+        <email>kiborg@somehost.ru</email>
+        <group>html</group>
+    </person>
+    <person>
+        <login>botanidze</login>
+        <email>sergey@somehost.ru</email>
+        <phone type="work">03</phone>
+        <group>html</group>
+    </person>
+</persons>
